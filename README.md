@@ -1,37 +1,32 @@
 # Hi there, I'm Shashikant Pawase! 👋
 
-I'm a final-year IT engineering student at STES Sinhgad Academy Of Engineering, Kondhwa, Pune. I'm passionate about web development and machine learning, with hands-on experience in the MERN stack, C++, Java, JavaScript, EJS, SQL, Python, and machine learning.
+I'm a final-year IT engineering student at STES Sinhgad Academy Of Engineering, Kondhwa, Pune. I'm passionate about web development and machine learning, with hands-on experience in the following technologies:
 
-- 🔭 **Current Project:** Working on **ServeSurplus**, a web-based application aimed at reducing food wastage by connecting donors with NGOs and volunteers.
-- 🌱 **Learning Focus:** Continuously enhancing my skills in full-stack development and exploring advanced machine learning algorithms.
-- 💬 **Ask Me About:** Web development, machine learning, and open-source contributions.
-- 📫 **Contact Me:** shashikantp2302@gmail.com
-- 📺 **YouTube Channel:** [@shetkaribaliraja1978](https://www.youtube.com/@shetkaribaliraja1978)
-- 🐦 **Twitter:** [@Shashi_5338](https://x.com/Shashi_5338)
-- 🐳 **Docker Hub:** [shashikant1904](https://hub.docker.com/u/shashikant1904)
-- 💼 **LinkedIn:** [Shashikant Pawase](https://www.linkedin.com/in/shashikant-pawase-775249259)
+## 🚀 Technologies & Languages:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" />
+</p>
 
-## GitHub Stats
+## 🔭 Current Project:
+- **ServeSurplus** - A web-based platform aimed at reducing food wastage by connecting donors with NGOs and volunteers.
 
-![Shashikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashi-1904&show_icons=true&theme=radical)
+## 📊 GitHub Stats & Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashi-1904&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi-1904&layout=compact&theme=radical" height="150"/>
+</p>
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi-1904&layout=compact&theme=radical)
-
-## Featured Projects
-
-- [**ServeSurplus**](https://github.com/Shashi-1904/Excess-Food-Management-Donation-System-using-Machine-Learning): A platform to reduce food wastage by connecting donors with NGOs and volunteers.
-- [**EduNexus E-learning Platform**](https://github.com/Shashi-1904/EduNexus_E_learning_platform): A comprehensive e-learning solution offering a range of educational resources.
-
-## Recent YouTube Video
-
-[![Latest Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-*Click the image to watch my latest video.*
-
-## Let's Connect!
-
-I'm always eager to collaborate on exciting projects and share knowledge. Feel free to reach out through any of the platforms above!
-
-*Note: Replace `YOUR_VIDEO_ID` with the actual ID of your latest YouTube video.*
+## 🌐 Connect with Me:
+- 📧 **Email:** shashikantp2302@gmail.com  
+- 🔗 **YouTube:** [Shetkari Baliraja](https://www.youtube.com/@shetkaribaliraja1978)  
+- 🐦 **Twitter/X:** [@Shashi_5338](https://x.com/Shashi_5338)  
+- 🐳 **Docker Hub:** [shashikant1904](https://hub.docker.com/u/shashikant1904)  
