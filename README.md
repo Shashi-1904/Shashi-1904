@@ -1,77 +1,37 @@
-<h2 align="left">Hi there, I'm Shashikant Pawase! 👋
+# Hi there, I'm Shashikant Pawase! 👋
 
-I'm a third-year IT engineering student passionate about web development and machine learning. I enjoy building innovative solutions and continuously learning new technologies.
+I'm a final-year IT engineering student at STES Sinhgad Academy Of Engineering, Kondhwa, Pune. I'm passionate about web development and machine learning, with hands-on experience in the MERN stack, C++, Java, JavaScript, EJS, SQL, Python, and machine learning.
 
-🔭 I’m currently working on: [EduNexus E-learning Platform](https://github.com/Shashi-1904/EduNexus_E_learning_platform) A comprehensive E-learning platform built with the MERN stack.
-🌱 I’m currently learning: Advanced Machine Learning algorithms and their applications.
-👯 I’m looking to collaborate on: Open-source projects related to web development and AI.
-💬 Ask me about: MERN stack, Machine Learning, and Python.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashikant-pawase-775249259) | [Instagram](https://www.instagram.com/shashi_1904)
-⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.</h2>
+- 🔭 **Current Project:** Working on **ServeSurplus**, a web-based application aimed at reducing food wastage by connecting donors with NGOs and volunteers.
+- 🌱 **Learning Focus:** Continuously enhancing my skills in full-stack development and exploring advanced machine learning algorithms.
+- 💬 **Ask Me About:** Web development, machine learning, and open-source contributions.
+- 📫 **Contact Me:** shashikantp2302@gmail.com
+- 📺 **YouTube Channel:** [@shetkaribaliraja1978](https://www.youtube.com/@shetkaribaliraja1978)
+- 🐦 **Twitter:** [@Shashi_5338](https://x.com/Shashi_5338)
+- 🐳 **Docker Hub:** [shashikant1904](https://hub.docker.com/u/shashikant1904)
+- 💼 **LinkedIn:** [Shashikant Pawase](https://www.linkedin.com/in/shashikant-pawase-775249259)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashi-1904&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashi-1904&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## GitHub Stats
 
-###
+![Shashikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashi-1904&show_icons=true&theme=radical)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Top Languages
 
-###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi-1904&layout=compact&theme=radical)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+## Featured Projects
 
-###
+- [**ServeSurplus**](https://github.com/Shashi-1904/Excess-Food-Management-Donation-System-using-Machine-Learning): A platform to reduce food wastage by connecting donors with NGOs and volunteers.
+- [**EduNexus E-learning Platform**](https://github.com/Shashi-1904/EduNexus_E_learning_platform): A comprehensive e-learning solution offering a range of educational resources.
 
-<div align="left">
-  <a href="www.youtube.com/@shetkaribaliraja1978" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/shashi_1904" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="shashikantp2302@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shashikant-pawase-775249259" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Shashi_5338" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+## Recent YouTube Video
 
-###
+[![Latest Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-<br clear="both">
+*Click the image to watch my latest video.*
 
-<img src="https://raw.githubusercontent.com/Shashi-1904/Shashi-1904/output/snake.svg" alt="Snake animation" />
+## Let's Connect!
 
-###
+I'm always eager to collaborate on exciting projects and share knowledge. Feel free to reach out through any of the platforms above!
+
+*Note: Replace `YOUR_VIDEO_ID` with the actual ID of your latest YouTube video.*
