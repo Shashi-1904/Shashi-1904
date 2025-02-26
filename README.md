@@ -1,15 +1,13 @@
-<h2 align="left"># Hi there, I'm Shashikant Pawase! 👋
+<h2 align="left">Hi there, I'm Shashikant Pawase! 👋
 
 I'm a third-year IT engineering student passionate about web development and machine learning. I enjoy building innovative solutions and continuously learning new technologies.
 
-- 🔭 I’m currently working on: **[EduNexus E-learning Platform](https://github.com/Shashi-1904/EduNexus_E_learning_platform)** – A comprehensive E-learning platform built with the MERN stack.
-- 🌱 I’m currently learning: Advanced Machine Learning algorithms and their applications.
-- 👯 I’m looking to collaborate on: Open-source projects related to web development and AI.
-- 💬 Ask me about: MERN stack, Machine Learning, and Python.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashikant-pawase-775249259) | [Instagram](https://www.instagram.com/shashi_1904)
-- ⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.</h2>
-
-###
+🔭 I’m currently working on: [EduNexus E-learning Platform](https://github.com/Shashi-1904/EduNexus_E_learning_platform) A comprehensive E-learning platform built with the MERN stack.
+🌱 I’m currently learning: Advanced Machine Learning algorithms and their applications.
+👯 I’m looking to collaborate on: Open-source projects related to web development and AI.
+💬 Ask me about: MERN stack, Machine Learning, and Python.
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashikant-pawase-775249259) | [Instagram](https://www.instagram.com/shashi_1904)
+⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shashi-1904&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
