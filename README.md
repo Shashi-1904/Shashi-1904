@@ -43,7 +43,7 @@ I'm a final-year IT engineering student at STES Sinhgad Academy Of Engineering, 
 ## 🌐 Connect with Me:
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.youtube.com/@shetkaribaliraja1978" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
